@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20200118Turret(1002)", "20200118Turret(1002)\20200118Turret(1002).vcxproj", "{8F47717F-FDA5-499A-89C8-270353A1D05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Debug|x64.ActiveCfg = Debug|x64
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Debug|x64.Build.0 = Debug|x64
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Debug|x86.Build.0 = Debug|Win32
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Release|x64.ActiveCfg = Release|x64
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Release|x64.Build.0 = Release|x64
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Release|x86.ActiveCfg = Release|Win32
+		{8F47717F-FDA5-499A-89C8-270353A1D05A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D402F1CF-9979-4029-965E-B450A2367464}
+	EndGlobalSection
+EndGlobal

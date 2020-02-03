@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\programming\2020\baekjoon\20200128\20200128squarenumber(1016)\20200128squarenumber(1016)\main.cpp(9): warning C4244: '초기화 중': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\programming\2020\baekjoon\20200128\20200128squarenumber(1016)\20200128squarenumber(1016)\main.cpp(14): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20200128SquareNumber(1016).vcxproj -> C:\Programming\2020\BAEKJOON\20200128\20200128SquareNumber(1016)\Debug\20200128SquareNumber(1016).exe
